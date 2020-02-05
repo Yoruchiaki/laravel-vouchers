@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/laravel-vouchers",
+    "name": "yoruchiaki/laravel-vouchers",
     "description": "Allow users to redeem vouchers that are bound to models..",
     "keywords": [
         "beyondcode",
@@ -42,16 +42,4 @@
 
     },
     "config": {
-        "sort-packages": true
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "BeyondCode\\Vouchers\\VouchersServiceProvider"
-            ],
-            "aliases": {
-                "Vouchers": "BeyondCode\\Vouchers\\Facades\\Vouchers"
-            }
-        }
-    }
-}
+        "sort-pack
